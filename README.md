@@ -61,7 +61,7 @@ Response:
 Installation & Setup
 --------------------
 1. Clone the Repository:
-   git clone https://github.com/your-username/health-junction.git
+   git clone https://github.com/HARSHINITHANGAVEL/health-junction.git
    cd health-junction
 
 2. Create Virtual Environment:
