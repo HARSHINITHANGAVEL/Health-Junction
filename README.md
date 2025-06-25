@@ -2,7 +2,7 @@
 Health Junction: NLP-Based Medical Question Answering System
 ============================================================
 
-<img width="873" alt="image" src="https://github.com/user-attachments/assets/01a80715-5b15-4535-8449-000b9f42c98b" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/01a80715-5b15-4535-8449-000b9f42c98b" />
 
 
 A natural language processing (NLP) powered medical chatbot that helps general users understand symptoms, diseases, and possible conditions. The system extracts insights from real clinical transcriptions and medical literature to generate medically relevant responses.
