@@ -61,28 +61,7 @@ Response:
 2. Book Reference: “Page 267: Influenza diagnosis and treatment”
 3. Summary: Possible conditions - flu, pneumonia, infection
 
-Installation & Setup
---------------------
-1. Clone the Repository:
-   git clone https://github.com/HARSHINITHANGAVEL/health-junction.git
-   cd health-junction
 
-2. Create Virtual Environment:
-   python3 -m venv env
-   source env/bin/activate
-
-3. Install Dependencies:
-   pip install -r requirements.txt
-
-4. Download NLTK Data:
-   import nltk
-   nltk.download('punkt')
-   nltk.download('stopwords')
-   nltk.download('wordnet')
-   nltk.download('averaged_perceptron_tagger')
-
-5. Run the App:
-   streamlit run app.py
 
 Project Structure
 -----------------
